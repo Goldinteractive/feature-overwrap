@@ -12,7 +12,7 @@ Wraps inner elements to hide overflowing content and adds left and right inner s
 
 Install this package with sackmesser:
 
-    make feature-install overwrap
+    make feature-install-overwrap
 
 or when sackmesser is not used:
 
