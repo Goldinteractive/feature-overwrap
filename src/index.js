@@ -11,7 +11,7 @@ class Overwrap extends base.features.Feature {
 
   update() {
     if (!this.updating) {
-      base.utils.func.rAF(this._update.bind(this))
+      base.utils.fn.rAF(this._update.bind(this))
     }
 
     this.updating = true
